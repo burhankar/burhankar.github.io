@@ -1,0 +1,518 @@
+body{
+    color: whitesmoke;
+}
+
+.futbolcular{
+    top: 8px;
+    position: fixed ;
+    left: 830px;
+    color: aliceblue;
+    background-color:#222222; 
+    width: 125px;
+    height: 40px;
+    margin:-10px
+    
+    
+}
+.onemli{
+    top: 8px;
+    position: fixed;
+    
+    left: 715px;
+    background-color: #222222;
+   
+    
+    
+    width: 200px;
+    height: 40px;
+    margin:-10px
+}
+.futboli{
+    position: fixed;
+    top: 8px;
+    left: 630px;
+    background-color: #222222;
+    width: 85px;
+    height: 40px;
+    margin:-10px
+}
+.futboln{
+    position:fixed;
+    top: 8px;
+    left: 530px;
+    background-color: #222222;
+    width: 100px;
+    height: 40px;
+    margin: -10px;
+}
+.logo{
+   position: fixed;
+   
+   left: 0 ;
+   top: -10px;
+   height: 48px;
+   background-color:#222222;
+   width: 520.5px;
+   
+   
+}
+
+
+
+.futbolcular a{
+    
+    color: whitesmoke;
+    position: fixed;
+    top: 9px;
+    text-indent: 0px;
+    text-decoration: none
+
+}
+.onemli a{
+    
+    color: whitesmoke;
+    position: fixed;
+    top: 9px;
+    text-indent: 0px;
+    text-decoration: none;
+    
+}
+.futboli a {
+    color: whitesmoke;
+    position: fixed;
+    top: 9px;
+    text-indent: 0px;
+    text-decoration: none
+}
+.futboln a{
+    color: whitesmoke;
+    position: fixed;
+    top: 9px;
+    text-indent: 0px;
+    text-decoration: none
+}    
+    
+.futbolcular a:hover{
+    color:aqua;
+    transition: 1s;
+}
+.onemli a:hover{
+    color: aqua;
+    transition: 1s;
+
+}
+.futboli a:hover{
+    color: aqua;
+    transition: 1s;
+}
+.futboln a:hover{
+    color: aqua;
+    transition: 1s;
+
+}
+.kutu{
+    
+    position: fixed;
+    top: 37px;
+    left: 720px;
+    height: 226px;
+    border: 300px solid #222222;
+    
+}
+.saha{
+    position: absolute;
+    top: 38px;
+    left: 150px;
+}
+.futbolnd{
+    position: absolute;
+    top: 255px;
+    left: 150px;
+    color: rgb(23, 92, 255);
+}
+.futoblt{
+    position: absolute;
+    top: 2015px;
+    width: 450px;
+    color: #000000;
+    left: 150px
+
+}
+
+
+.kural5aç{
+
+    position: absolute;
+    top: 2020px;
+    color: #DC143C;
+    width:  500px ;
+    left: 150px;
+
+}
+.hak{
+    position: absolute;
+    left: 150px;
+    top: 1110px;
+   
+    
+
+}
+.futbolhk{
+    position: absolute;
+    color: rgb(23, 92, 255) ;
+    top: 690px;
+    left: 150px
+    
+}
+
+strong{
+    color: rgb(0, 72, 255);
+}
+
+.kırmızı{
+
+    position: absolute;
+    
+    top: 1730px;
+    left: 150px;
+
+      
+
+}
+
+.futbolre{
+    position:absolute;
+    left: 150px;
+    top:370px;
+   
+    
+}
+
+
+.çizgi1{
+    position: absolute;
+    color: rgba(0, 0, 0, 0.593);
+    left: 0px;
+    top: 180px; 
+}
+
+.kural{
+    position: absolute;
+    left: 150px;
+    top: 1605px; 
+    color: #DC143C;
+    width: 500px
+}
+
+
+
+.kural6aç{
+
+    position: absolute;
+    left: 150px;
+    top: 2210px; 
+    color: #DC143C;
+    width: 495px
+   
+
+
+}
+.top1{
+    position: absolute;
+    left: 147px;
+    top: 2420px;
+    
+}
+.çizgi3{
+
+    position: absolute;
+    color: rgba(0, 0, 0, 0.593);
+    left: 150px;
+    top: 2175px
+}
+
+.kural2{
+    position: absolute;
+    left: 150px;
+    top: 710px; 
+    color: #DC143C;
+    width: 500px
+}
+.kural2aç{
+    position: absolute;
+    left: 0px;
+    top: 5px; 
+    color: #DC143C;
+    width: 500px
+}
+.kural2aç2{
+    position: absolute;
+    left: 0px;
+    top:  250px;
+
+}
+.kural2b{
+    position: absolute;
+    left: 0px;
+    top: 240px; 
+    color: rgb(43, 45, 41);
+    width: 500px
+}
+.bold{
+    color: rgb(43, 45, 41);
+}
+
+
+.kural3{
+    position: absolute;
+    left: 150px;
+    top: 1455px; 
+    color: #DC143C;
+    width: 500px
+}
+
+
+.kural3aç{
+
+
+    position: absolute;
+    left: 150px;
+    top:  1465px;
+    color: #DC143C;
+    width: 500px ;
+
+
+}
+
+.çizgi2{
+    
+        position: absolute;
+        color: rgba(0, 0, 0, 0.593);
+        left: 150px;
+        top: 1585px; 
+    
+}
+
+.kural4{
+    position: absolute;
+    left: 150px;
+    top: 1640px; 
+    color: #DC143C;
+    width: 500px
+
+}
+.kural4aç{
+
+    position: absolute;
+    left: 150px;
+    top:  1665px;
+    color: #DC143C;
+    width: 500px ;
+
+
+}
+.top{
+    position: absolute;
+    left: 150px;
+    top: 2000px;
+}
+
+
+
+.kural1{
+    
+    position: absolute;
+    left: 150px;
+    top: 280px; 
+    color: #DC143C;
+    width: 500px
+
+}
+.aş2{
+    position: absolute;
+    top: 3px;
+    right: -2;
+    
+
+}
+.aş1{
+    position: absolute;
+    top: 3px;
+    right: -2;
+    
+}
+.aş3{
+    position: absolute;
+    top: 3px;
+    right: -2;
+
+}
+.aş4{
+    position: absolute;
+    top: 1px;
+    right: -2;
+
+}
+
+
+
+
+
+
+.Bafut{
+    position: absolute;
+    left: 0px;
+    top: -20px;
+    color: rgb(23, 92, 255) ;
+    
+
+}
+
+
+
+
+.kural7aç{
+    position: absolute;
+    left: 150px;
+    top: 2735px;
+
+
+}
+
+.messi{
+    position: absolute;
+    left: 150px;
+    top: 2790px;
+    color: #DC143C;
+    width: 500px;
+}
+.Neymar{
+    position: absolute;
+    left: 150px;
+    top:  2900px;
+    color: #DC143C;
+    width: 500px;
+}
+.Erling{
+    position: absolute;
+    left: 150px;
+    top:3020px ;
+    color: #DC143C;
+    width: 500px;
+}
+.Benzema{
+    position: absolute;
+    left: 150px;
+    top: 3140px;
+    color: #DC143C;
+    width: 500px;
+}
+.Mbappe{
+    position: absolute;
+    left: 150px;
+    top: 3240px;
+    color: #DC143C;
+    width: 500px;
+
+}
+.Bruyne{
+    position: absolute;
+    left: 150px;
+    top: 3375px;
+    color: #DC143C;
+    width: 500px;
+}
+.Modric{
+    position: absolute;
+    left: 150px;
+    top: 3475px;
+    color: #DC143C;
+    width: 500px;
+}
+.Lewandowski{
+    position: absolute;
+    left: 150px;
+    top: 3575px;
+    color: #DC143C;
+    width: 500px;
+
+}
+.Salah{
+    position: absolute;
+    left: 150px;
+    top: 3690px;
+    color: #DC143C;
+    width: 500px;
+}
+.Mane{
+    position: absolute;
+    left: 150px;
+    top: 3775px;
+    color: #DC143C;
+    width: 500px;
+
+}
+.belli{
+
+    position: absolute;
+    left: 155px;
+    top: 4200px;
+    color: #000000;
+    width: 500px;
+
+}
+.Ronaldo{
+
+    position: absolute;
+    left: 155px;
+    top: 4240px;
+    color: #DC143C;
+    width: 500px;
+
+}
+
+.ta{
+    position: fixed;
+    color: rgb(4, 201, 79);
+    left:  724px;
+    width: 200px;
+    top: 65px;
+}
+.film a {
+    position: fixed;
+   
+    left: 724px;
+    top: 110px ;
+    color: rgb(180, 237, 24);
+    text-decoration: none;
+    
+
+}
+.ilk a{
+    position: fixed;
+   
+    left: 724px;
+    top: 140px ;
+    color: rgb(180, 237, 24);
+    text-decoration: none;
+
+}
+.kendim a{
+
+    position: fixed;
+   
+    left: 724px;
+    top: 170px ;
+    color: rgb(18, 216, 255);
+    text-decoration: none;
+
+}
+.yu{
+
+    position: fixed;
+    color: rgb(248, 248, 248);
+    left:  724px;
+    width: 200px;
+    top: 45px;
+
+}
